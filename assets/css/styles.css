@@ -83,6 +83,7 @@ header{
     font-family: var(--yellow-tail);
     cursor: pointer;
     font-size: 3rem;
+    padding-top: 20px;
 }
 .logo:hover{
     transition: var(--transition);
